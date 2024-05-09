@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Fast api**
 
-- 📫 How to reach me **cozyamy@gmail.com**
+- 📫 How to reach me **amarachiiheakam.e@gmail.com**
 
 - ⚡ Fun fact **I love watching movies in my spare time**
 
