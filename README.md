@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/amyycozy" target="blank"><img src="https://img.shields.io/twitter/follow/amyycozy?logo=twitter&style=for-the-badge" alt="amyycozy" /></a> </p>
 
-- 🌱 I’m currently learning **Express JS**
+- 🌱 I’m currently learning **Working on my Aws certifications**
 
 - 📫 How to reach me **amarachiiheakam.e@gmail.com**
 
